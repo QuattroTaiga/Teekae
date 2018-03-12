@@ -1,0 +1,112 @@
+body{
+    font-family: Century Gothic Arial Bodini MT;
+    background-color: #636e72;
+    background-image: url(footer_lodyas.png);
+    }
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #1f2222;
+}
+
+li {
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+    
+    
+}
+
+li a{
+    color: #af1136;
+    
+} 
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+
+}
+
+.text{
+    color: #f1f2f2;
+    text-align: center;
+    font-size: 32px
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: underline
+}
+
+.top {
+    margin-top: 30px;
+}
+ 
+a:hover{
+    color: #f1f2f7;
+}
+
+a:active{
+    color: #c1009c;
+}
+
+a:visited{
+    color: #1d0bf8;
+}
+
+.images{
+    width: 300px;
+    height: 180px;
+    padding: 10px;
+    border: 2px solid #f1f2f7;
+    }
+
+h2 {
+    text-align: center;
+}
+
+.white{
+    color: #f1f2f7;
+}
+a.button {
+    background-color: #100a0a;
+    border: 5px solid #030303;
+    color: #fcfcfc;
+    text-align: center;
+    font-size: 50px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #d10e0e;
+}
+.video{
+display: block;
+    margin: 0 auto;
+}
+.pimage{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #000000;
+}
+
+
+p {
+    color: #f1f2f7;
+    
+    
+}
+
+h3 {
+    color: #f1f2f7;
+    text-decoration: underline;
+}
+
+.fullcenter{
+    text-align: center;
+}
